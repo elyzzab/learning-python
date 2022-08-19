@@ -1,2 +1,2 @@
 # learning-python
-For practice projects from Codeacademy's Learn Python 3 course, etc.
+Thanks for viewing my Python repository. These are examples of Python code written for Codeacademy's Learn Python 3 course, etc.
